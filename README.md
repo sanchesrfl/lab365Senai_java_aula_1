@@ -1,6 +1,6 @@
-#Repositório aula ministrada para a turma do DevInHouse na CLAMED.
+# Repositório aula ministrada para a turma do DevInHouse na CLAMED.
 
-POO - Herança e Polimorfismo 
+POO - Herança, polimorfismo, downcasting e upcasting.
 
 
-Autor : Prof. Ms. Rafael Sanches
+Autor: Prof. Ms. Rafael Sanches.
